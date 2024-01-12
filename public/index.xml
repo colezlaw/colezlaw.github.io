@@ -9,11 +9,19 @@
     <lastBuildDate>Fri, 12 Jan 2024 14:48:27 -0500</lastBuildDate>
     <atom:link href="https://will.thestranathans.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
+      <title>About</title>
+      <link>https://will.thestranathans.com/about/</link>
+      <pubDate>Fri, 12 Jan 2024 15:02:57 -0500</pubDate>
+      <guid>https://will.thestranathans.com/about/</guid>
+      <description>I&amp;rsquo;m Will Stranathan, and I have a very small set of interests. Most of the content you&amp;rsquo;ll find on this site will be ramblings about football/soccer (usually Charlotte FC), or maybe software development.
+I live in Charlotte with my amazing wife. I&amp;rsquo;ve helped launch two adult humans to production, but they really did a lot of the work themselves.</description>
+    </item>
+    <item>
+      <title>Ahoy!</title>
       <link>https://will.thestranathans.com/posts/my-first-post/</link>
       <pubDate>Fri, 05 Jan 2024 20:30:34 -0500</pubDate>
       <guid>https://will.thestranathans.com/posts/my-first-post/</guid>
-      <description>Ahoy! In 2022, one of the local football club blogs was having a video podcast, and in the live comments somebody on a mobile phone said &amp;ldquo;Westwood should ahoy more&amp;rdquo; which I assume was &amp;ldquo;shoot&amp;rdquo;. But &amp;ldquo;ahoy&amp;rdquo; stuck as a word we yell when somebody shoots from outside the box now.</description>
+      <description>In 2022, one of the local football club blogs was having a video podcast, and in the live comments somebody on a mobile phone said &amp;ldquo;Westwood should ahoy more&amp;rdquo; which I assume was &amp;ldquo;shoot&amp;rdquo;. But &amp;ldquo;ahoy&amp;rdquo; stuck as a word we yell when somebody shoots from outside the box now.</description>
     </item>
   </channel>
 </rss>

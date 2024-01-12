@@ -2,3 +2,17 @@ baseURL = 'https://will.thestranathans.com/'
 languageCode = 'en-us'
 title = 'Will at Home'
 theme = 'PaperMod'
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 20
