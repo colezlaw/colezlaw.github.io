@@ -2,10 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://will.thestranathans.com/</loc>
+    <lastmod>2024-01-12T14:48:27-05:00</lastmod>
+  </url><url>
+    <loc>https://will.thestranathans.com/posts/my-first-post/</loc>
+    <lastmod>2024-01-05T20:30:34-05:00</lastmod>
+  </url><url>
+    <loc>https://will.thestranathans.com/posts/</loc>
+    <lastmod>2024-01-05T20:30:34-05:00</lastmod>
+  </url><url>
     <loc>https://will.thestranathans.com/categories/</loc>
   </url><url>
     <loc>https://will.thestranathans.com/tags/</loc>
-  </url><url>
-    <loc>https://will.thestranathans.com/</loc>
   </url>
 </urlset>
