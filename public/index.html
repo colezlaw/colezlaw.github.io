@@ -134,8 +134,11 @@
     </nav>
 </header>
 <main class="main"> 
-<div class="post-content"><p><img loading="lazy" src="/cltbanner.jpg" alt="Will and Valerie at a CLTFC Match"  />
-</p>
+<div class="post-content"><p>{{ with .Resource.GetMatch &ldquo;images/cltbanner.jpg&rdquo; }}
+{{ with .Resize &ldquo;600x webp }}
+<!-- raw HTML omitted -->
+{{ end }}
+{{ end }}</p>
 
 
 </div>
